@@ -1,2 +1,2 @@
 # TrainingZone
-Training Zone test website repo
+Training Zone test website repo for CP1406
